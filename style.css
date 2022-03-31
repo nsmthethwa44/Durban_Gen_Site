@@ -199,7 +199,7 @@ h2 span{
   background-position: center center;
   transition: .5s ease;
   position: relative;
-  border-left: 2rem solid #fff;
+ 
   animation: scaleUp 2s ease-in infinite;
   transition: .5s ease-in-out;
 }
